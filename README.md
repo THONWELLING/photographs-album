@@ -1,2 +1,3 @@
 # photographs-album
-projeto criado para Atividade Front-End Leadster
+
+Projeto Criado Para Atividade Front-End Leadster.
